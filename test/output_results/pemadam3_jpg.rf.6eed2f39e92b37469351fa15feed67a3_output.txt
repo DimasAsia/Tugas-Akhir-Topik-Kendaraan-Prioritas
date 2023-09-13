@@ -1,0 +1,36 @@
+Image: pemadam3_jpg.rf.6eed2f39e92b37469351fa15feed67a3.jpg
+Class: ambulance
+TP: 0
+TN: 0
+FP: 0
+FN: 0
+Accuracy: 0.00%
+--------------------
+Class: mobil
+TP: 0
+TN: 0
+FP: 0
+FN: 0
+Accuracy: 0.00%
+--------------------
+Class: motor
+TP: 0
+TN: 0
+FP: 0
+FN: 0
+Accuracy: 0.00%
+--------------------
+Class: pemadam
+TP: 2
+TN: 0
+FP: 0
+FN: 0
+Accuracy: 100.00%
+--------------------
+Class: truk
+TP: 0
+TN: 0
+FP: 0
+FN: 0
+Accuracy: 0.00%
+--------------------

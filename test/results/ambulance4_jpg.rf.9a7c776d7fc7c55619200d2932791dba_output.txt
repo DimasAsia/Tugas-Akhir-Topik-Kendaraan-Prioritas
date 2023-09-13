@@ -1,0 +1,6 @@
+TP: 0
+TN: 5
+FP: 0
+FN: 5
+Akurasi: 0.5
+Accuracy: 50.00%

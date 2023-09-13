@@ -1,0 +1,36 @@
+Image: ambulance3_jpg.rf.28b8931f7cad0db1149c7e5df3699417.jpg
+Class: ambulance
+TP: 0
+TN: 0
+FP: 0
+FN: 0
+Accuracy: 0.00%
+--------------------
+Class: mobil
+TP: 2
+TN: 0
+FP: 0
+FN: 1
+Accuracy: 66.67%
+--------------------
+Class: motor
+TP: 0
+TN: 0
+FP: 0
+FN: 0
+Accuracy: 0.00%
+--------------------
+Class: pemadam
+TP: 0
+TN: 0
+FP: 0
+FN: 0
+Accuracy: 0.00%
+--------------------
+Class: truk
+TP: 0
+TN: 1
+FP: 1
+FN: 0
+Accuracy: 50.00%
+--------------------

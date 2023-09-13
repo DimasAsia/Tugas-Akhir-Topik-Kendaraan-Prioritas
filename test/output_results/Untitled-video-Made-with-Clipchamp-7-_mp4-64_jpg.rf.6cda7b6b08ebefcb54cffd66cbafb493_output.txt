@@ -1,0 +1,36 @@
+Image: Untitled-video-Made-with-Clipchamp-7-_mp4-64_jpg.rf.6cda7b6b08ebefcb54cffd66cbafb493.jpg
+Class: ambulance
+TP: 0
+TN: 0
+FP: 0
+FN: 0
+Accuracy: 0.00%
+--------------------
+Class: mobil
+TP: 4
+TN: 0
+FP: 0
+FN: 4
+Accuracy: 50.00%
+--------------------
+Class: motor
+TP: 8
+TN: 0
+FP: 0
+FN: 6
+Accuracy: 57.14%
+--------------------
+Class: pemadam
+TP: 0
+TN: 0
+FP: 0
+FN: 0
+Accuracy: 0.00%
+--------------------
+Class: truk
+TP: 0
+TN: 0
+FP: 0
+FN: 0
+Accuracy: 0.00%
+--------------------

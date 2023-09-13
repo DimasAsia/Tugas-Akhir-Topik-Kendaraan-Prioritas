@@ -1,0 +1,36 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jul 19 10:31:57 2023
+
+@author: Acer
+"""
+
+            'C:/Users/Acer/yolov4/video/video2.mp4',
+            'C:/Users/Acer/yolov4/video/video3.mp4', 
+            'C:/Users/Acer/yolov4/video/video1.mp4',
+            'C:/Users/Acer/yolov4/video/video4.mp4',
+            
+            'C:/Users/Acer/yolov4/video/video2.mp4',
+            'C:/Users/Acer/yolov4/video/video6.mp4',
+            'C:/Users/Acer/yolov4/video/video2.mp4',
+            'C:/Users/Acer/yolov4/video/video3.mp4',
+            
+            'C:/Users/Acer/yolov4/video/video7.mp4',
+            'C:/Users/Acer/yolov4/video/video3.mp4', 
+            'C:/Users/Acer/yolov4/video/video4.mp4',
+            'C:/Users/Acer/yolov4/video/video19.mp4',
+            
+            'C:/Users/Acer/yolov4/video/video8.mp4',
+            'C:/Users/Acer/yolov4/video/video9.mp4', 
+            'C:/Users/Acer/yolov4/video/video10.mp4',
+            'C:/Users/Acer/yolov4/video/video13.mp4',
+            
+            'C:/Users/Acer/yolov4/video/video12.mp4',
+            'C:/Users/Acer/yolov4/video/video20.mp4',
+            'C:/Users/Acer/yolov4/video/video11.mp4',
+            'C:/Users/Acer/yolov4/video/video14.mp4',
+            
+            'C:/Users/Acer/yolov4/video/video15.mp4',
+            'C:/Users/Acer/yolov4/video/video16.mp4', 
+            'C:/Users/Acer/yolov4/video/video17.mp4',
+            'C:/Users/Acer/yolov4/video/video18.mp4'

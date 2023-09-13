@@ -1,0 +1,6 @@
+TP: 4
+TN: 4
+FP: 1
+FN: 3
+Akurasi: 0.6666666666666666
+Accuracy: 66.67%
